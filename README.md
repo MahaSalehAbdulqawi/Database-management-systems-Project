@@ -34,5 +34,10 @@ The required information for the database design was gathered using:
 - Interviews with the club’s HR Manager
 - A questionnaire to understand the club’s business rules and data requirements
 
+ ## Skills Gained
+This project helped develop important skills such as:
+- Database design and modeling
+- Data analysis and problem solving
+
 ## Conclusion
 This project aims to provide the Manufacturing Community with a reliable and efficient database system that improves data management, supports collaboration, and enhances overall organizational performance.
