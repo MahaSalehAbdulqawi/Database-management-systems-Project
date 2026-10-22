@@ -1,6 +1,6 @@
 # Manufacturing Community Database Management System
 
-This project focuses on designing and implementing a centralized database system for the Manufacturing Community at King Abdulaziz University. The club was established in January 2017 and aims to support innovation, manufacturing, and entrepreneurship by helping students transform their ideas into tangible products.
+This group project focuses on designing and implementing a centralized database system for the Manufacturing Community at King Abdulaziz University. The club was established in January 2017 and aims to support innovation, manufacturing, and entrepreneurship by helping students transform their ideas into tangible products.
 
 ## Project Overview
 The Manufacturing Community currently relies on Excel, Google Sheets, and Google Forms to collect and store data manually. This process creates several problems, including:
