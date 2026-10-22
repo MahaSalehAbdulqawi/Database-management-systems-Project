@@ -36,6 +36,7 @@ The required information for the database design was gathered using:
 
  ## Skills Gained
 This project helped develop important skills such as:
+- SQL
 - Database design and modeling
 - Data analysis and problem solving
 
